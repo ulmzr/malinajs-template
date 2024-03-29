@@ -1,6 +1,4 @@
 node_modules
 package-lock.json
-.gitignore
-public/main.js
-public/main.css
+
 
