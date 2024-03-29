@@ -1,0 +1,16 @@
+/* malinacss:C:/Users/yulmizar/Documents/nodejs/Example/malinajs-template/src/App.malina.css */
+img.m3kjsbe {
+  display: block;
+  width: 200px;
+  margin: 60px auto;
+  transition: 0.2s;
+}
+h1.m3kjsbe,
+div.m3kjsbe {
+  text-align: center;
+  min-width: 300px;
+  margin: 40px auto;
+}
+input.m3kjsbe {
+  font-size: 24px;
+}
